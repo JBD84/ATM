@@ -6,7 +6,7 @@
   <!-- <a href="https://mitmern2022.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">My ATM</h1>
+<h1 align="center">ATM</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jlpm-mex/MyATM?color=56BEB8">
